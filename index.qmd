@@ -1,0 +1,9 @@
+---
+title: "Quarto test site (Dott. Marco Biffino)"
+---
+
+## Un sito per testare Quarto
+
+Queste pagine nascono per testare le capacità di [Quarto](https://quarto.org) relative alla pubblicazione di siti web personali con funzionalità di blog e supporto multilingue.
+
+Il sito presenta contenuti relativi al mio lavoro e ai miei interessi, tuttavia non è rivolto all'utenza, essendo un sito sperimentale.

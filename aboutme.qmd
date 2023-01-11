@@ -1,0 +1,12 @@
+---
+title: "Chi sono"
+---
+
+Benvenuto/a!
+
+Sono Marco Biffino, sono uno statistico e data scientist con un'esperienza ormai ventennale nell'uso del linguaggio R per la manipolazione dei dati e l'analisi statistica.
+
+Sono un lavoratore autonomo dal 2011 ed ho maturato varie collaborazioni con enti pubblici, aziende e persone.
+
+Per oltre dieci anni ho collaborato in particolare con gli enti del Sistema Sanitario Toscano nell'ambito della salute dei lavoratori e dell'epidemiologia occupazionale.
+

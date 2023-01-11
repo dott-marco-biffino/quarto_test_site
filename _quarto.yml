@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Quarto test site"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: aboutme.qmd
+        text: Chi sono
+      - href: blog_posts.qmd
+        text: Blog
+      - href: firug.qmd
+        text: Firenze RUG
+      - href: apsds.qmd
+        text: APSDS
+      - href: cv.qmd
+        text: CV
+      - href: pubs.qmd
+        text: Pubblicazioni
+
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: true
+
+editor: visual
+

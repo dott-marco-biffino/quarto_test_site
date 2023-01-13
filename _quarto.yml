@@ -5,7 +5,7 @@ project:
 website:
   title: "Quarto test site"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: aboutme.qmd
@@ -20,6 +20,8 @@ website:
         text: CV
       - href: pubs.qmd
         text: Pubblicazioni
+    body-footer:
+      (C) 2023 - **Marco Biffino**, Firenze - P.IVA: 02833050731
 
 format:
   html:
